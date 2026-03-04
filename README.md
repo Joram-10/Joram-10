@@ -9,7 +9,7 @@
 
 ### 🚀 Status Actual
 - 💻 Desarrollando **DyKarly** (sistema para homeópatas) y participando en proyectos como **iTuto**.
-- 🏐 Fuera del código: Me encuentras en la cancha de vóley, dándole al gym o farmeando en Teselia con mi Umbreon Shiny en PokeMMO.
+- 🏐 Fuera del código: Me encuentras en la cancha de vóley o en valo.
 - 👾 *[ PATTERN: BLUE ]* - Sobreviviendo al dilema del erizo (Fan de Evangelion).
 
 ### 🛠️ Mi Arsenal (Tech Stack)
