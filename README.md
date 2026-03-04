@@ -1,4 +1,4 @@
-# ⚡ WHO IS DAITY? ⚡
+ ⚡ Joram ⚡
 *"El pasado ya no me afecta, y el futuro no puede."*
 
 ¡Qué onda! Soy **Daniel Joram** (aka Daity), estudiante de Ingeniería en Desarrollo de Software en el CETI. Me apasionan las páginas web, las bases de datos y resolver problemas con pura lógica. 100% overthinker.
