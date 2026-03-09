@@ -1,17 +1,5 @@
  ⚡ JORAM ⚡
-*"El pasado ya no me afecta, y el futuro no puede."*
-
-¡Qué onda! Soy **Daniel Joram** (aka Daity), estudiante de Ingeniería en Desarrollo de Software en el CETI. Me apasionan las páginas web, las bases de datos y resolver problemas con pura lógica. 100% overthinker.
-
 🔗 **[Visita mi portafolio interactivo aquí](https://whoisdaity.vercel.app/)**
-
----
-
-### 🚀 Status Actual
-- 💻 Desarrollando **DyKarly** (sistema para homeópatas) y participando en proyectos como **iTuto**.
-- 🏐 Fuera del código: Me encuentras en la cancha de vóley o en valo.
-- 👾 *[ PATTERN: BLUE ]* - Sobreviviendo al dilema del erizo (Fan de Evangelion).
-
 ### 🛠️ Mi Arsenal (Tech Stack)
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
