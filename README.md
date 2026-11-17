@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería en Desarrollo de Software en el **CETI**. Me interesan el desarrollo web, las bases de datos, la IA y conectar software con hardware.
 
-🔗 **[Portafolio profesional](https://portafolio-green-seven-43.vercel.app/)** · 🎮 **[whoisdaity (versión casual)](https://whoisdaity.vercel.app/)**
+🔗 **[Portafolio profesional](https://daniel-joram.vercel.app/)** · 🎮 **[whoisdaity (versión casual)](https://whoisdaity.vercel.app/)**
 
 ### 🚀 Proyectos destacados
 - **[NexusFlow](https://github.com/Joram-10/nexusflow)**: constructor visual de flujos de trabajo con nodos (Next.js, TypeScript, React Flow).
